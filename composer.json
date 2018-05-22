@@ -1,0 +1,13 @@
+{
+    "name": "svi/settings",
+    "description": "svi framework settings",
+    "license": "MIT",
+    "require": {
+        "svi/orm": "0.0.*"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Svi\\SettingsBundle\\" : ""
+        }
+    }
+}
